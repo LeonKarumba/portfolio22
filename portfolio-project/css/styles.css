@@ -1,0 +1,24 @@
+.sidebar {
+  float: right;
+}
+.Some{
+  float: left;
+}
+.important{
+  font-style: italic;
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+}
+.me{
+  background-color: yellow;
+}
+.Me{
+  font-family: sans-serif;
+}
+.additional{
+  font-family: inherit;
+}
+.column{
+  float: left;
+}
